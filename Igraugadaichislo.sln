@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{CF950FFB-DDFD-4991-9A1C-2D814AFC230D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ugadaichislotest", "угадайчислотест\Ugadaichislotest.csproj", "{C898C319-4A66-474F-B657-59C48B6F832D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF950FFB-DDFD-4991-9A1C-2D814AFC230D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF950FFB-DDFD-4991-9A1C-2D814AFC230D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF950FFB-DDFD-4991-9A1C-2D814AFC230D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF950FFB-DDFD-4991-9A1C-2D814AFC230D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C898C319-4A66-474F-B657-59C48B6F832D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C898C319-4A66-474F-B657-59C48B6F832D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C898C319-4A66-474F-B657-59C48B6F832D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C898C319-4A66-474F-B657-59C48B6F832D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ECF80ED-90B1-420F-97EF-AC1FB7EC7381}
+	EndGlobalSection
+EndGlobal
